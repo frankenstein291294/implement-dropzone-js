@@ -1,0 +1,29 @@
+.dropzone {
+  border:2px dashed blue;
+  margin-bottom:30px;
+}
+
+.button {
+  text-align:center;
+}
+
+#send {
+  background-color:blue;
+  color:#fff;
+  border:1px solid;
+  padding:10px;
+  transition:.3s;
+  border-radius:5px;
+  cursor:pointer;
+}
+/*  */
+#send:active {
+  background-color:#fff;
+  color:blue;
+}
+
+.dz-remove {
+  background-color:blue;
+  color:#fff;
+  text-decoration:none;
+}
